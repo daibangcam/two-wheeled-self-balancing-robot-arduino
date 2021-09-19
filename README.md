@@ -1,6 +1,8 @@
 # two-wheeled-self-balancing-robot-arduino
  
- Self Balancing Robot using LQR
+ V2: Self Balancing Robot using LQR
+
+ V1: Self Balancing Robot using PID
  
 ## Contact
 
@@ -14,4 +16,8 @@ Website: http://hano.cf/
 
 ## Demo
 
-Watch it on YouTube [Self Balancing Robot using LQR](https://youtu.be/8uBRm1sEKNI)
+Watch it on YouTube 
+
+[Self Balancing Robot using LQR](https://youtu.be/8uBRm1sEKNI)
+
+[Self Balancing Robot using PID]()
