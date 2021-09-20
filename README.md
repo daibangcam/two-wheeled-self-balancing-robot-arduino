@@ -20,4 +20,4 @@ Watch it on YouTube
 
 [Self Balancing Robot using LQR](https://youtu.be/8uBRm1sEKNI)
 
-[Self Balancing Robot using PID]()
+[Self Balancing Robot using PID](https://youtu.be/ELyCVXMnSU8)
